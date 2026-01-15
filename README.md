@@ -29,10 +29,12 @@ Customer_Purchase_Trend_Analysis is a data analytics project focused on understa
 ---
 
 ## 📁 Project Structure
+```
 ├── Customer_Trend_Analysis.ipynb # Python EDA & visualization
 ├── Customer_Trend_Analysis.sql # SQL queries for purchase trend analysis
 ├── customer_shopping_behavior.csv # Dataset
 ├── README.md # Project documentation
+```
 
 ## 🔍 Key Insights
 - A small segment of customers contributes disproportionately to total revenue
